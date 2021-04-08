@@ -6,7 +6,7 @@
 
 Bitmap 中文点阵位图字体 + Nerd Font图标集
 
-剔除和中文冲突的一部分Matrial Design图标
+剔除和中文冲突的一部分Material Design图标
 
 ## Font Info
 
