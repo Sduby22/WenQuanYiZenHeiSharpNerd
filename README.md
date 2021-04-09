@@ -14,6 +14,8 @@ Em: 1024
 
 Bitmap: 12-16Pt
 
+**英文部分非等宽** 需要搭配其他等宽英文字体使用
+
 ## License & Copyright
 
 GPL v2
